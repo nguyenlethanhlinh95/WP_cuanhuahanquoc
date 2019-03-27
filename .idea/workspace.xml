@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e68b7c1a-6c28-494f-85a7-a20590cf7045" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mystyle.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flatsome-child/assets/css/mystyle.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="545" column="25" lean-forward="false" selection-start-line="545" selection-start-column="25" selection-end-line="545" selection-end-column="25" />
+              <folding>
+                <element signature="e#303#2344#0" expanded="false" />
+                <element signature="e#315#1411#0" expanded="false" />
+                <element signature="e#458#835#0" expanded="false" />
+                <element signature="e#892#1082#0" expanded="false" />
+                <element signature="e#1956#2342#0" expanded="false" />
+                <element signature="e#2445#4312#0" expanded="false" />
+                <element signature="e#2507#4085#0" expanded="false" />
+                <element signature="e#2522#3326#0" expanded="false" />
+                <element signature="e#3338#3489#0" expanded="false" />
+                <element signature="e#3516#3846#0" expanded="false" />
+                <element signature="e#4108#4306#0" expanded="false" />
+                <element signature="e#4419#5438#0" expanded="false" />
+                <element signature="e#4440#4664#0" expanded="false" />
+                <element signature="e#5752#7319#0" expanded="false" />
+                <element signature="e#7374#8321#0" expanded="false" />
+                <element signature="e#8375#9113#0" expanded="false" />
+                <element signature="e#9325#9480#0" expanded="false" />
+                <element signature="e#9508#9774#0" expanded="false" />
+                <element signature="e#9524#9675#0" expanded="false" />
+                <element signature="e#9971#10813#0" expanded="false" />
+                <element signature="e#10014#10639#0" expanded="false" />
+                <element signature="e#10082#10269#0" expanded="false" />
+                <element signature="e#10301#10615#0" expanded="false" />
+                <element signature="e#10321#10496#0" expanded="false" />
+                <element signature="e#10962#11713#0" expanded="false" />
+                <element signature="e#11885#12453#0" expanded="false" />
+                <element signature="e#12538#13195#0" expanded="false" />
+                <element signature="e#12805#13127#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flatsome-child/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flatsome-child/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flatsome-child/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2121">
+              <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flatsome/template-parts/posts/archive.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flatsome-child/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>box</find>
+      <find>product_list_widget</find>
+      <find>phone</find>
+      <find>phone-icon</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/flatsome-child/assets/css/mystyle.css" />
+        <option value="$PROJECT_DIR$/flatsome-child/template-parts/posts/archive.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-title.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-footer.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/archive-title.php" />
+        <option value="$PROJECT_DIR$/plugins/contact-form-7/includes/contact-form-template.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/template-parts/posts/content.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-header.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/single.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/footer.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/style.css" />
+        <option value="$PROJECT_DIR$/flatsome-child/functions.php" />
+        <option value="$PROJECT_DIR$/flatsome-child/assets/css/mystyle.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="814" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="source_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source_code" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="source_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source_code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="flatsome-child" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="source_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source_code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="flatsome-child" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/wp/htdocs/laravel_ecom" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Computer of Linh\Desktop\cuanhuahanquoc\source_code\flatsome-child" />
+      <recent name="C:\Users\Computer of Linh\Desktop\cuanhuahanquoc\source_code\flatsome-child\template-parts\posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e68b7c1a-6c28-494f-85a7-a20590cf7045" name="Default" comment="" />
+      <created>1552699424330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552699424330</updated>
+      <workItem from="1552699430219" duration="7240000" />
+      <workItem from="1552870485776" duration="19706000" />
+      <workItem from="1552958338246" duration="7386000" />
+      <workItem from="1553042742761" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/css/mystyle.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#303#2344#0" expanded="false" />
+            <element signature="e#315#1411#0" expanded="false" />
+            <element signature="e#458#835#0" expanded="false" />
+            <element signature="e#892#1082#0" expanded="false" />
+            <element signature="e#1956#2342#0" expanded="false" />
+            <element signature="e#2445#4312#0" expanded="false" />
+            <element signature="e#2507#4085#0" expanded="false" />
+            <element signature="e#2522#3326#0" expanded="false" />
+            <element signature="e#3338#3489#0" expanded="false" />
+            <element signature="e#3516#3846#0" expanded="false" />
+            <element signature="e#4108#4306#0" expanded="false" />
+            <element signature="e#4419#5438#0" expanded="false" />
+            <element signature="e#4440#4664#0" expanded="false" />
+            <element signature="e#5752#7319#0" expanded="false" />
+            <element signature="e#7374#8321#0" expanded="false" />
+            <element signature="e#8375#9113#0" expanded="false" />
+            <element signature="e#9325#9480#0" expanded="false" />
+            <element signature="e#9508#9774#0" expanded="false" />
+            <element signature="e#9524#9675#0" expanded="false" />
+            <element signature="e#9971#10813#0" expanded="false" />
+            <element signature="e#10014#10639#0" expanded="false" />
+            <element signature="e#10082#10269#0" expanded="false" />
+            <element signature="e#10301#10615#0" expanded="false" />
+            <element signature="e#10321#10496#0" expanded="false" />
+            <element signature="e#10962#11713#0" expanded="false" />
+            <element signature="e#11885#12453#0" expanded="false" />
+            <element signature="e#12538#13195#0" expanded="false" />
+            <element signature="e#12805#13127#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/template-parts/posts/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/css/mystyle.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="286" column="5" lean-forward="false" selection-start-line="286" selection-start-column="5" selection-end-line="286" selection-end-column="5" />
+          <folding>
+            <element signature="e#303#2344#0" expanded="false" />
+            <element signature="e#315#1411#0" expanded="false" />
+            <element signature="e#458#835#0" expanded="false" />
+            <element signature="e#892#1082#0" expanded="false" />
+            <element signature="e#1956#2342#0" expanded="false" />
+            <element signature="e#2445#4312#0" expanded="false" />
+            <element signature="e#2507#4085#0" expanded="false" />
+            <element signature="e#2522#3326#0" expanded="false" />
+            <element signature="e#3338#3489#0" expanded="false" />
+            <element signature="e#3516#3846#0" expanded="false" />
+            <element signature="e#4108#4306#0" expanded="false" />
+            <element signature="e#4419#5438#0" expanded="false" />
+            <element signature="e#4440#4664#0" expanded="false" />
+            <element signature="e#5752#7319#0" expanded="false" />
+            <element signature="e#7374#8321#0" expanded="false" />
+            <element signature="e#8375#9113#0" expanded="false" />
+            <element signature="e#9325#9480#0" expanded="false" />
+            <element signature="e#9508#9774#0" expanded="false" />
+            <element signature="e#9524#9675#0" expanded="false" />
+            <element signature="e#9971#10813#0" expanded="false" />
+            <element signature="e#10014#10639#0" expanded="false" />
+            <element signature="e#10082#10269#0" expanded="false" />
+            <element signature="e#10301#10615#0" expanded="false" />
+            <element signature="e#10321#10496#0" expanded="false" />
+            <element signature="e#10962#11713#0" expanded="false" />
+            <element signature="e#11885#12453#0" expanded="false" />
+            <element signature="e#12538#13195#0" expanded="false" />
+            <element signature="e#12805#13127#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7539">
+          <caret line="359" column="31" lean-forward="false" selection-start-line="359" selection-start-column="31" selection-end-line="359" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/template-parts/posts/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="48" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/js/myscripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="121" lean-forward="false" selection-start-line="5" selection-start-column="121" selection-end-line="5" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/css/mystyle.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3276">
+          <caret line="156" column="43" lean-forward="false" selection-start-line="156" selection-start-column="43" selection-end-line="156" selection-end-column="43" />
+          <folding>
+            <element signature="e#303#2344#0" expanded="false" />
+            <element signature="e#315#1411#0" expanded="false" />
+            <element signature="e#458#835#0" expanded="false" />
+            <element signature="e#892#1082#0" expanded="false" />
+            <element signature="e#1956#2342#0" expanded="false" />
+            <element signature="e#2445#4312#0" expanded="false" />
+            <element signature="e#2507#4085#0" expanded="false" />
+            <element signature="e#2522#3326#0" expanded="false" />
+            <element signature="e#3338#3489#0" expanded="false" />
+            <element signature="e#3516#3846#0" expanded="false" />
+            <element signature="e#4108#4306#0" expanded="false" />
+            <element signature="e#4419#5438#0" expanded="false" />
+            <element signature="e#4440#4664#0" expanded="false" />
+            <element signature="e#5752#7319#0" expanded="false" />
+            <element signature="e#7374#8321#0" expanded="false" />
+            <element signature="e#8375#9113#0" expanded="false" />
+            <element signature="e#9325#9480#0" expanded="false" />
+            <element signature="e#9508#9774#0" expanded="false" />
+            <element signature="e#9524#9675#0" expanded="false" />
+            <element signature="e#9971#10813#0" expanded="false" />
+            <element signature="e#10014#10639#0" expanded="false" />
+            <element signature="e#10082#10269#0" expanded="false" />
+            <element signature="e#10301#10615#0" expanded="false" />
+            <element signature="e#10321#10496#0" expanded="false" />
+            <element signature="e#10962#11713#0" expanded="false" />
+            <element signature="e#11885#12453#0" expanded="false" />
+            <element signature="e#12538#13195#0" expanded="false" />
+            <element signature="e#12805#13127#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/js/myscripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/css/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/single-product/tabs/tabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/single-product/tabs/sections.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/single-product/layouts/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-649">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/content-single-product-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/content-single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome/woocommerce/single-product/review.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/featured-posts.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/single.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/pages/page-title.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-title.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-footer.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/contact-form-7/includes/contact-form.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/contact-form-7/modules/submit.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/contact-form-7/includes/contact-form-template.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/contact-form-7/wp-contact-form-7.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome/template-parts/posts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="73" lean-forward="true" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/archive-title.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-post-date.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-image.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/content-single.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-header-bottom.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/partials/entry-header.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/archive.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome-child/template-parts/posts/content.php" />
+    <entry file="file://$PROJECT_DIR$/flatsome/template-parts/posts/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatsome-child/assets/css/mystyle.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="545" column="25" lean-forward="false" selection-start-line="545" selection-start-column="25" selection-end-line="545" selection-end-column="25" />
+          <folding>
+            <element signature="e#303#2344#0" expanded="false" />
+            <element signature="e#315#1411#0" expanded="false" />
+            <element signature="e#458#835#0" expanded="false" />
+            <element signature="e#892#1082#0" expanded="false" />
+            <element signature="e#1956#2342#0" expanded="false" />
+            <element signature="e#2445#4312#0" expanded="false" />
+            <element signature="e#2507#4085#0" expanded="false" />
+            <element signature="e#2522#3326#0" expanded="false" />
+            <element signature="e#3338#3489#0" expanded="false" />
+            <element signature="e#3516#3846#0" expanded="false" />
+            <element signature="e#4108#4306#0" expanded="false" />
+            <element signature="e#4419#5438#0" expanded="false" />
+            <element signature="e#4440#4664#0" expanded="false" />
+            <element signature="e#5752#7319#0" expanded="false" />
+            <element signature="e#7374#8321#0" expanded="false" />
+            <element signature="e#8375#9113#0" expanded="false" />
+            <element signature="e#9325#9480#0" expanded="false" />
+            <element signature="e#9508#9774#0" expanded="false" />
+            <element signature="e#9524#9675#0" expanded="false" />
+            <element signature="e#9971#10813#0" expanded="false" />
+            <element signature="e#10014#10639#0" expanded="false" />
+            <element signature="e#10082#10269#0" expanded="false" />
+            <element signature="e#10301#10615#0" expanded="false" />
+            <element signature="e#10321#10496#0" expanded="false" />
+            <element signature="e#10962#11713#0" expanded="false" />
+            <element signature="e#11885#12453#0" expanded="false" />
+            <element signature="e#12538#13195#0" expanded="false" />
+            <element signature="e#12805#13127#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
